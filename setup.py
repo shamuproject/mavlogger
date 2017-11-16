@@ -13,7 +13,7 @@ NAME = 'mavlogger'
 DESCRIPTION = 'Write MAVLink messages in a human readable log format.'
 URL = 'https://github.com/shamuproject/mavlogger'
 # EMAIL = 'me@example.com'
-AUTHOR = 'CETI Foundation'
+AUTHOR = 'Severyn Polakiewicz'
 
 # What packages are required for this module to be executed?
 REQUIRED = []
